@@ -69,5 +69,9 @@ gradle assembleDebug
 gradle :app:testDebugUnitTest
 ```
 
+### Pre-Compiled APK
+A ready-to-install Android package is included directly in the root of this repository:
+- **`ApexTrigger3D.apk`** (22 MB) — Install directly on any Android device (Android 7.0+ / API 24+).
+
 The compiled APK will be located at:
 `app/build/outputs/apk/debug/app-debug.apk`
