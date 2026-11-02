@@ -1,0 +1,6 @@
+{
+  "name": "Apex Trigger 3D",
+  "description": "Action-packed 3D first-person shooter with cyber arena combat, multiple weapons, smart bot AI, wave defense, and intense gunfights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
